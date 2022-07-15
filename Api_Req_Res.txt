@@ -1,0 +1,21 @@
+Request Body
+
+{
+        "input_post" : "I love Twitter"
+}
+
+
+
+
+Response Body
+
+
+{
+    "input text": "I love Twitter",
+    "sentiment": {
+        "score": "0.6369",
+        "sentimentType": "Positive"
+    },
+    "type": "SOCIAL MEDIA",
+    "type number": "18"
+}
